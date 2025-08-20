@@ -28,7 +28,6 @@ public class GameMinDto {
         imgUrl = projection.getImgUrl();
         shortDescription = projection.getShortDescription();
     }
-
     public Long getId() {
         return id;
     }
